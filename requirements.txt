@@ -1,0 +1,5 @@
+streamlit==1.56.0
+pandas
+numpy
+pyarrow==15.0.0
+ib_insync
